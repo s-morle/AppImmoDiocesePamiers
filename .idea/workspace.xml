@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90959d57-6d87-4ce7-92e3-aea0774a8e69" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../AppImmoDiocesePamiers\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BFizLh9UjDQGFlSdhoDKkzbtDe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/sylva/Documents/Nouveau dossier",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PHP"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sylva\OneDrive\Documents\ProjetAppDiocese" />
+      <recent name="C:\xampp\htdocs\AppImmoDiocesePamiers" />
+      <recent name="C:\Users\sylva\PhpstormProjects\AppImmoDiocesePamiers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sylva\Documents\Nouveau dossier" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app_immo_diocese_pamiers.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AppImmoDiocesePamiers/app_immo_diocese_pamiers.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.app_immo_diocese_pamiers.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90959d57-6d87-4ce7-92e3-aea0774a8e69" name="Changes" comment="" />
+      <created>1656508494766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656508494766</updated>
+      <workItem from="1656508496535" duration="680000" />
+      <workItem from="1656509253341" duration="2925000" />
+      <workItem from="1656513976395" duration="550000" />
+      <workItem from="1656572500678" duration="10335000" />
+      <workItem from="1656603991650" duration="2640000" />
+      <workItem from="1656660507576" duration="4384000" />
+      <workItem from="1656711961849" duration="8043000" />
+      <workItem from="1656783144259" duration="152000" />
+      <workItem from="1656783826383" duration="279000" />
+      <workItem from="1656784116530" duration="117000" />
+      <workItem from="1656784364777" duration="732000" />
+      <workItem from="1656785185981" duration="738000" />
+      <workItem from="1656785931469" duration="36000" />
+      <workItem from="1656786032918" duration="1433000" />
+      <workItem from="1656837222048" duration="1335000" />
+      <workItem from="1656840462122" duration="158000" />
+      <workItem from="1656840926219" duration="241000" />
+      <workItem from="1656841172270" duration="9000" />
+      <workItem from="1656841206787" duration="4000" />
+      <workItem from="1656841216783" duration="104000" />
+      <workItem from="1656841445708" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
